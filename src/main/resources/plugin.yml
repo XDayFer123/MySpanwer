@@ -1,0 +1,11 @@
+name: MySpawner
+version: 1.0.1
+main: es.myspawner.es.myspawner.MySpawner
+api-version: 1.18
+authors: [ AnthonyMT ]
+description: Este plugin es creado para poner spawner de mythimobs con el custom del mobs adentro del spawner
+commands:
+  myspawner:
+    description: commando para ver la version del plugin es /myspawner
+  ms:
+    description: el commando principal es /ms
